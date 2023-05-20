@@ -1,3 +1,4 @@
 mcdp {
  requires a[m]   
+ requires b[m]
 }
