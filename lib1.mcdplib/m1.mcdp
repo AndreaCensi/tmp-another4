@@ -1,4 +1,7 @@
 mcdp {
  requires a[m]   
  requires b[m]
+ from shelf "gihub" import library a1
+ 
+ a = instance `a1.mdel
 }
